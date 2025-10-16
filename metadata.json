@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Générateur de QCM Adaptatif",
+  "description": "Une application web pour générer des questionnaires à choix multiples (QCM) adaptatifs à partir du contenu d'un fichier PDF. L'application corrige les réponses et fournit des explications en français et en arabe, puis génère de nouvelles questions basées sur les points faibles de l'utilisateur.",
+  "requestFramePermissions": []
+}
